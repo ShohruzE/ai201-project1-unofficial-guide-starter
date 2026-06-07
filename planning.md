@@ -1,7 +1,7 @@
 # Project 1 Planning: The Unofficial Guide
 
 > Write this document before you write any pipeline code.
-> Your spec and architecture diagram are what you'll use to direct AI tools (Claude, Copilot, etc.) to generate your implementation — the more specific they are, the more useful the generated code will be.
+> Your spec and architecture diagram are what you'll use to direct AI tools (Claude, Copilot, etc.) to generate your implementation. The more specific they are, the more useful the generated code will be.
 > Update the Retrieval Approach and Chunking Strategy sections if you change your approach during implementation.
 > Update this file before starting any stretch features.
 
@@ -9,114 +9,93 @@
 
 ## Domain
 
-<!-- What domain did you choose? Why is this knowledge valuable and hard to find through official channels? -->
-
----
+I chose the domain of practical guidance and advice for Hunter College computer science students who are trying to succeed in the major, build projects, prepare for internships, and eventually land a career in tech or a tech-adjacent field. This knowledge is valuable because it is the type of advice students usually learn from clubs, upperclassmen, trial and error, and online communities rather than from official college pages alone. My guide focuses on making that advice searchable so students can ask questions like how to plan CS classes, when to start interview prep, how to build a resume, and what resources are worth using.
 
 ## Documents
 
-<!-- List your specific sources: URLs, subreddit names, forum threads, or file descriptions.
-     Aim for at least 10 sources that together cover different subtopics or perspectives within your domain. -->
-
-| # | Source | Description | URL or location |
-|---|--------|-------------|-----------------|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
-| 6 | | | |
-| 7 | | | |
-| 8 | | | |
-| 9 | | | |
-| 10 | | | |
+| #   | Source                                                               | Description                                                                                                                                                                                                             | URL or location                                   |
+| --- | -------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------- |
+| 1   | Student-created club guide: Career Paths                             | Explains different computer science career paths and recommends roadmap.sh as a way to explore possible technical roles beyond only software engineering.                                                               | `data/raw/career_paths.txt`                       |
+| 2   | Student-created club guide: Create LinkedIn                          | Gives beginner-friendly advice on why Hunter CS students should make a LinkedIn profile, connect with students and professionals, and use the platform to learn about careers.                                          | `data/raw/create_linkedin.txt`                    |
+| 3   | Student-created club guide: Create Resume                            | Covers resume basics for students pursuing programming-related roles, including templates, ATS-friendly formatting, and how to add projects when they lack experience.                                                  | `data/raw/create_resume.txt`                      |
+| 4   | Student-created club guide: Internships                              | Explains why students should apply to internships even as lowerclassmen and points them toward internship lists and underclassman-focused programs.                                                                     | `data/raw/internships.txt`                        |
+| 5   | Student-created club guide: Interview Prep                           | Gives an overview of the technical interview process, LeetCode, Grind 75, Tech Interview Handbook, and how Hunter courses like CSCI 235 and CSCI 335 connect to data structures and algorithms.                         | `data/raw/interview_prep.txt`                     |
+| 6   | Student-created club guide: Women in CS at Hunter                    | Gives advice for women and nonbinary CS students at Hunter about community, confidence, impostor syndrome, mentors, and outside communities like Rewriting the Code and Break Through Tech.                             | `data/raw/women_in_cs_hunter.txt`                 |
+| 7   | Student-created club guide: Hunter CS Course Planning                | Explains how Hunter CS students should think about course sequences, prerequisites, workload, DegreeWorks, and not overloading difficult CS and math classes.                                                           | `data/raw/hunter_cs_course_planning.txt`          |
+| 8   | Student-created club guide: Projects for Hunter CS Students          | Gives project ideas for beginner and intermediate Hunter CS students and explains how projects can become resume-worthy with GitHub, READMEs, demos, and clear impact.                                                  | `data/raw/projects_for_hunter_cs_students.txt`    |
+| 9   | Student-created club guide: Updated Interview Prep with NeetCode     | Updates the interview prep advice by focusing on NeetCode, coding patterns, weekly consistency, behavioral prep, and how interview preparation should change depending on where a student is in the Hunter CS sequence. | `data/raw/neetcode_interview_prep.txt`            |
+| 10  | Student-created club guide: Hackathons, Research, and CUNY Resources | Explains how Hunter CS students can use hackathons, research, CUNY Tech Prep, the Hunter Career Center, and other outside opportunities to build experience beyond classes.                                             | `data/raw/hackathons_research_cuny_resources.txt` |
 
 ---
 
 ## Chunking Strategy
 
-<!-- How will you split documents into chunks?
-     State your chunk size (in tokens or characters), overlap size, and explain why those
-     numbers fit the structure of your documents.
-     A review-heavy corpus warrants different chunking than a long FAQ. -->
+**Chunk size:** 300 to 450 words per chunk, with the chunker trying to split on section headings and paragraphs first. If a section is short, I will keep the whole section together. If a section is too long, I will split by paragraph and only fall back to sentence-level splitting if needed.
 
-**Chunk size:**
+**Overlap:** About 50 to 75 words of overlap for chunks that are split from the same long section. I will use little or no overlap when a heading section is already short and self-contained because too much overlap could create duplicate chunks that retrieve the same information repeatedly.
 
-**Overlap:**
-
-**Reasoning:**
+**Reasoning:** I will use a heading-aware recursive chunking strategy instead of simple fixed-size chunking. These documents are not huge PDFs or long textbooks. They are short student advice guides with clear headings such as “Why LinkedIn?”, “When Should I Start?”, “Beginner Project Ideas”, and “Final Takeaways.” Because of that, the best chunk is usually one complete section or a few related paragraphs, not a random number of characters. This follows the RAG lesson’s idea that chunks should be big enough to answer a question but small enough to stay focused. A full document chunk would be too broad because one guide may contain multiple topics, while tiny chunks would lose context like which resource or class the advice is referring to.
 
 ---
 
 ## Retrieval Approach
 
-<!-- Which embedding model are you using (e.g., all-MiniLM-L6-v2 via sentence-transformers)?
-     How many chunks will you retrieve per query (top-k)?
-     If you were deploying this for real users and cost wasn't a constraint, what tradeoffs
-     would you weigh in choosing a different embedding model — context length, multilingual
-     support, accuracy on domain-specific text, latency? -->
+**Embedding model:** I will use `sentence-transformers/all-MiniLM-L6-v2` through the `sentence-transformers` library. This model is a good fit for a class project because it runs locally, does not require paid API credits, and produces dense embeddings that work well for semantic search over sentences and paragraphs.
 
-**Embedding model:**
+**Top-k:** I will start with `top_k = 4`. This should give the LLM enough context to answer most student advice questions without flooding it with loosely related chunks. If early testing shows that answers are missing important context, I will try `top_k = 5`. If answers become too broad or mix unrelated advice from multiple documents, I will lower it back to 3 or improve chunking.
 
-**Top-k:**
-
-**Production tradeoff reflection:**
+**Production tradeoff reflection:** In production, I would compare embedding models based on accuracy, latency, cost, maximum input length, and whether the model understands student slang, technical terms, and Hunter-specific language. For this project, a local embedding model is sensible because the corpus is small and the goal is to build the full RAG pipeline without spending money. If cost were not a constraint, I would consider a stronger hosted embedding model for better retrieval quality, but I would also need to think about privacy because these guides may include student-created advice. I would use ChromaDB as the vector store because it supports storing embeddings with document metadata, which is important for source attribution.
 
 ---
 
 ## Evaluation Plan
 
-<!-- List your 5 test questions with their expected correct answers.
-     Questions should be specific enough that you can judge whether the system's response
-     is right or wrong. "What are good dining halls?" is too vague.
-     "What do students say about wait times at [dining hall name] during lunch?" is testable. -->
-
-| # | Question | Expected answer |
-|---|----------|-----------------|
-| 1 | | |
-| 2 | | |
-| 3 | | |
-| 4 | | |
-| 5 | | |
+| #   | Question                                                                                                         | Expected answer                                                                                                                                                                                                                                                                                                                                        |
+| --- | ---------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 1   | When should a Hunter CS student start seriously preparing for technical interviews?                              | The system should say that students can start lightly in CSCI 135 with basic arrays, strings, hash maps, and recursion, but should take interview prep more seriously around CSCI 235 because data structures connect directly to interviews. By CSCI 335 or after finishing it, consistent practice is recommended for internships or new grad roles. |
+| 2   | What resource does the guide recommend for exploring different computer science career paths?                    | The system should identify roadmap.sh as the recommended resource and explain that it gives clear roadmaps for different developer career paths, helping students research what each path requires.                                                                                                                                                    |
+| 3   | What should a Hunter CS student do if they have little or no programming experience for their resume?            | The system should say to list all experiences first, condense the resume to one page with the most relevant experiences, and add technical projects from class knowledge or personal interests to show coding ability.                                                                                                                                 |
+| 4   | What advice does the guide give to women or nonbinary CS students who feel isolated in computer science classes? | The system should say that they are not behind and should not isolate themselves. It should recommend building community with classmates, upperclassmen, clubs, and outside communities like Rewriting the Code or Break Through Tech, while asking specific questions and finding mentors.                                                            |
+| 5   | What should students do outside of classes to build experience as CS students?                                   | The system should mention projects, hackathons, research, CUNY Tech Prep, club work, internships, and career center resources. The expected answer should emphasize that classes alone are usually not enough and that students should commit to at least one experience outside class.                                                                |
 
 ---
 
 ## Anticipated Challenges
 
-<!-- What could go wrong? Name at least two specific risks with reasoning.
-     Consider: noisy or inconsistent documents, missing source attribution, off-topic
-     retrieval, chunks that split key information across boundaries. -->
+1. Some queries may retrieve advice from the wrong document because many guides share overlapping career vocabulary like “resume,” “internship,” “projects,” “interview,” and “technical skills.” For example, a question about projects could retrieve resume advice because both talk about making a student more employable. I will check this by printing retrieved chunks and their sources before adding generation.
 
-1.
+2. The documents are written in a casual student-advice tone, so some answers may be subjective rather than factual. The system should be careful to say “the guide recommends” or “the documents suggest” instead of presenting advice as universal truth. Source attribution will be important because users should be able to see which guide the advice came from.
 
-2.
+3. Chunk boundaries could split a heading from the paragraphs that explain it, especially in documents with short sections and lists. To reduce this risk, my chunker will preserve headings with the text that follows them and include metadata such as source filename and chunk index.
+
+4. An out-of-scope question may cause hallucination if the prompt is too weak. For example, if a user asks for official graduation requirements or guaranteed internship outcomes, the system should say it does not have enough information instead of guessing from general knowledge.
 
 ---
 
 ## Architecture
 
-<!-- Draw a diagram of your pipeline showing the five stages:
-     Document Ingestion → Chunking → Embedding + Vector Store → Retrieval → Generation
-     Label each stage with the tool or library you're using.
-     You can use ASCII art, a Mermaid diagram, or embed a sketch as an image.
-     You'll use this diagram as context when prompting AI tools to implement each stage. -->
+```mermaid
+flowchart TD
+    A[Raw TXT documents<br/>10 Hunter CS student guide files] --> B[Document Ingestion<br/>Python file loader]
+    B --> C[Cleaning and Metadata<br/>Strip empty lines, normalize whitespace,<br/>attach source filename and title]
+    C --> D[Heading-Aware Recursive Chunking<br/>Split by headings, then paragraphs,<br/>then sentences if needed]
+    D --> E[Embedding Model<br/>sentence-transformers/all-MiniLM-L6-v2]
+    E --> F[Vector Store<br/>ChromaDB with text, source,<br/>title, and chunk index metadata]
+    G[User Question<br/>Gradio or CLI input] --> H[Query Embedding<br/>same all-MiniLM-L6-v2 model]
+    H --> I[Semantic Retrieval<br/>Top-k = 4 similar chunks]
+    F --> I
+    I --> J[Prompt Builder<br/>Retrieved context plus question<br/>and grounding instructions]
+    J --> K[LLM Generation<br/>Groq llama-3.3-70b-versatile]
+    K --> L[Grounded Answer<br/>Answer plus cited source files]
+    I --> M[Evaluation Logging<br/>Retrieved chunks, scores,<br/>accuracy, relevance, faithfulness]
+```
 
 ---
 
 ## AI Tool Plan
 
-<!-- For each part of the pipeline below, describe:
-     - Which AI tool you plan to use (Claude, Copilot, ChatGPT, etc.)
-     - What you'll give it as input (which sections of this planning.md, which requirements)
-     - What you expect it to produce
-     - How you'll verify the output matches your spec
+**Milestone 3 — Ingestion and chunking:** I will use ChatGPT or Claude to help implement the ingestion and chunking script. I will give it my Documents table, Chunking Strategy section, and the Architecture diagram. I expect it to produce Python code that loads every `.txt` file from `data/raw`, cleans whitespace, preserves headings, attaches metadata, and creates chunks around 300 to 450 words with 50 to 75 words of overlap only when needed. I will verify the output by printing at least 5 random chunks and checking that each chunk is readable, substantive, self-contained, and tied to the correct source file.
 
-     "I'll use AI to help me code" is not a plan.
-     "I'll give Claude my Chunking Strategy section and ask it to implement chunk_text()
-     with my specified chunk size and overlap" is a plan. -->
+**Milestone 4 — Embedding and retrieval:** I will use ChatGPT or Claude to help write the code for loading `sentence-transformers/all-MiniLM-L6-v2`, embedding all chunks, storing them in ChromaDB, and retrieving the top 4 chunks for a user query. I will give it the Retrieval Approach section and my chunk metadata format. I expect it to produce a retrieval function that returns chunk text, source filename, title, chunk index, and distance score. I will verify it by testing at least 3 evaluation questions before adding the LLM and checking whether the retrieved chunks actually answer the question.
 
-**Milestone 3 — Ingestion and chunking:**
-
-**Milestone 4 — Embedding and retrieval:**
-
-**Milestone 5 — Generation and interface:**
+**Milestone 5 — Generation and interface:** I will use ChatGPT or Claude to help connect retrieval to an LLM and build a simple Gradio interface. I will give it the Architecture diagram, the grounding requirement, and the expected response format. I expect it to produce code where the LLM answers only from retrieved context and says it does not have enough information when the documents do not answer the question. I will verify this by testing normal questions, checking that source files are visible in the output, and asking at least one out-of-scope question to confirm that the system refuses to guess.
