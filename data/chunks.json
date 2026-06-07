@@ -1,0 +1,512 @@
+[
+  {
+    "id": "career_paths::0",
+    "text": "Career Paths\nThere are many fields in Computer Science that you can pursue. Arguably, the most popular and oversaturated choice is becoming a Software Engineer.\n\nHowever, what if you want to pursue a different career but don't know what it entails?\n\nroadmap.sh is an open-source community effort to make clear the process necessary to pursue a certain career path in the development world through simple and objective roadmaps.\n\nIt is a no-BS guide that features every single literal piece that you would need to know and learn to become the perfect employee in that particular field.\n\nIf you're a perfectionist, go for every box, but roughly following the roadmap will place you on the right track you need to be successful in your dream job.",
+    "source": "documents/cs-club/career_paths.txt",
+    "filename": "career_paths.txt",
+    "title": "Career Paths",
+    "section_heading": "Career Paths",
+    "chunk_index": 0,
+    "word_count": 125
+  },
+  {
+    "id": "career_paths::1",
+    "text": "How Do I Use It?\nLook through all of the paths that interest you and then dive deep into the concepts that entail them. Watch youtube videos, do research, and determine if it's something you see yourself doing.\n\nNow after doing that research you probably already have a rough idea of what you need to learn. Follow the roadmap and click on each box to see the recommended resources they provided.\n\nAt this point, the only limitations are in yourself. Discipline yourself to study the necessary concepts, and you'll succeed.",
+    "source": "documents/cs-club/career_paths.txt",
+    "filename": "career_paths.txt",
+    "title": "Career Paths",
+    "section_heading": "How Do I Use It?",
+    "chunk_index": 1,
+    "word_count": 90
+  },
+  {
+    "id": "create_linkedin::0",
+    "text": "What is LinkedIn?\nLinkedIn is the Instagram of professionals. You will be be able to meet people all around the world who already work in careers that you’re interested in and other college students who are in the same place as you.",
+    "source": "documents/cs-club/create_linkedin.txt",
+    "filename": "create_linkedin.txt",
+    "title": "What is LinkedIn?",
+    "section_heading": "What is LinkedIn?",
+    "chunk_index": 0,
+    "word_count": 42
+  },
+  {
+    "id": "create_linkedin::1",
+    "text": "Why LinkedIn?\nTaking the time to create a LinkedIn profile will give you access to a plethora of benefits, such as job opportunities, learning from professionals and their experiences, speaking with recruiters to potentially make you stand out from other applicants and so much more. You won’t believe me until you see it for yourself.",
+    "source": "documents/cs-club/create_linkedin.txt",
+    "filename": "create_linkedin.txt",
+    "title": "What is LinkedIn?",
+    "section_heading": "Why LinkedIn?",
+    "chunk_index": 1,
+    "word_count": 55
+  },
+  {
+    "id": "create_linkedin::2",
+    "text": "Get Connecting\nHowever, creating the perfect LinkedIn takes time and is necessary to make yourself stand out from the crowd. There isn’t one perfect video but this (https://www.youtube.com/watch?v=B4OhuzwLc9o) one from Jeff Su covers the most bases and helps you get started and more familiar with the platform.\n\nWe recommend you watch more than 1 video on creating a strong profile as it can help familiarize yourself with the platform.\n\nInstead of swiping away on Instagram and TikTok, do the same on LinkedIn and learn more about the professional world. You are going to learn so many things that you didn’t before and you might be shocked by the information that’s on there.\n\nAs college students, we need to start taking more initiative because graduation will be here before we know it. Instead of feeling the excitement of ending college and going on into your professional career, you will feel worried that you don’t have a job yet and perhaps LinkedIn was the reason why.\n\nYou won't regret it.",
+    "source": "documents/cs-club/create_linkedin.txt",
+    "filename": "create_linkedin.txt",
+    "title": "What is LinkedIn?",
+    "section_heading": "Get Connecting",
+    "chunk_index": 2,
+    "word_count": 168
+  },
+  {
+    "id": "create_resume::0",
+    "text": "General Guide\nThere are many different intricacies when creating a resume. For the sake of simplicity, the following resources are catered towards people who desire a career in something programming related. Ex: Software Engineering, Data Science, etc. This video (https://www.youtube.com/watch?v=BYUy1yvjHxE) from Google shows you exactly what they look for in their applicants as well as general tips.",
+    "source": "documents/cs-club/create_resume.txt",
+    "filename": "create_resume.txt",
+    "title": "General Guide",
+    "section_heading": "General Guide",
+    "chunk_index": 0,
+    "word_count": 57
+  },
+  {
+    "id": "create_resume::1",
+    "text": "LaTeX Edited Resume\nResumes can be created any way you want, but for ease of ATS and organization, it is recommended to use templates such as Overleaf (https://www.overleaf.com/latex/templates/jakes-resume/syzfjbzwjncs).\nNote: This template is created in LaTeX, a special language used for formatting things nicely. It is confusing, but all you have to do is edit the text inside the brackets.\n\nInteractive Resume Builder\nIf that doesn't fit your tastes, you can be more creative and have more freedom with FlowCV (https://app.flowcv.com/resume) which is also a popular option among programmers.",
+    "source": "documents/cs-club/create_resume.txt",
+    "filename": "create_resume.txt",
+    "title": "General Guide",
+    "section_heading": "LaTeX Edited Resume",
+    "chunk_index": 1,
+    "word_count": 88
+  },
+  {
+    "id": "create_resume::2",
+    "text": "No Programming Experience?\nIf you have little-to-no programming experience, follow this basic guide:\n1. List all experiences that you have: jobs, extracurriculars, awards/honors, etc. Don't worry about the length.\n2. Condense to 1 page to only showcase the most technical experiences.\n3. Reference below to add technical projects.\n\nNo matter your year, it will always be beneficial to add relevant programming experience to show to employers that you know how to code and have promise and value to the company as an applicant.\n\nIf you are taking your first programming class, don't worry. You can use the knowledge gained in this class to create cool projects to add to your resume to help you stand out.\n\nAnything will help. Find your passion and niche in computer science and make something happen.\nEx: A passionate person would go online and look for language-specific project ideas and create something that interests them. A lazy person would store all of their knowledge in the back of their brain, never to be used again, and wonder why they aren't getting jobs.",
+    "source": "documents/cs-club/create_resume.txt",
+    "filename": "create_resume.txt",
+    "title": "General Guide",
+    "section_heading": "No Programming Experience?",
+    "chunk_index": 2,
+    "word_count": 177
+  },
+  {
+    "id": "internships::0",
+    "text": "Internships\nNow that you've created your resume and done some interview prep, you can apply to internships!\n\nGenerally, lowerclassmen such as freshmen and sophomores have decreased chances of getting an interview as upperclassmen typically have more extensive knowledge and, therefore are more likely to succeed in the company. However, don't let that discourage you.\n\nIt does not hurt to apply to any applications because you will never know when a recruiter will give you a chance. If you are given the chance, use these interviews as experience to prepare you for future interviews, thus you will be much more aware of previous mistakes and won't make them again.\n\nCurrent Internships\nHere is a GitHub (https://github.com/SimplifyJobs/Summer2026-Internships) repository that lists many tech internships for the current/upcoming summer. This gets updated every summer so be sure to save it for future reference!\n\nLowerclassman?\nIf you are an underclassman, don't worry because there are special internships/programs catered for you. These internships typically encourage underrepresented minorities to apply, so don't be afraid! CodePath Career Kit Notion (https://codepathdotorg.notion.site/CodePath-Career-Kit-1496208b00cd800d9b39fc18bae4d951)",
+    "source": "documents/cs-club/internships.txt",
+    "filename": "internships.txt",
+    "title": "Internships",
+    "section_heading": "Internships",
+    "chunk_index": 0,
+    "word_count": 172
+  },
+  {
+    "id": "interview_prep::0",
+    "text": "Technical Interviewing?\nInterviewing for a technical role is far more convoluted than traditional interviews.\n\nAt McDonald's, they request your resume(if any), ask some questions, and more likely than not you're hired on the spot.\n\nWhereas, if you were to interview for a bigger tech company...\n\n1. You would have to pass ATS.\n2. Possibly get sent an online code assessment and achieve a certain score.\n3. Get your resume viewed by an actual human (Recruiter, HR, or Hiring Manager).\n4. Possibly get a phone screening(filter) interview.\n5. Go through a long on-site(usually virtual) interview process(possibly consisting of behavioral and technical interviews), which can range from 1-6 interviews consecutively in a day.\n6. Only then, will you get a decision back and it may even be a rejection!\n\nIt is a strenuous process, but if you put aside ample time in your schedule to prepare for it, it won't be as daunting as others may make it out to be.",
+    "source": "documents/cs-club/interview_prep.txt",
+    "filename": "interview_prep.txt",
+    "title": "Technical Interviewing?",
+    "section_heading": "Technical Interviewing?",
+    "chunk_index": 0,
+    "word_count": 159
+  },
+  {
+    "id": "interview_prep::1",
+    "text": "When should I start?\nIf you...\n1. Have previous coding experience.\n2. Consider yourself knowledgeable in the fundamentals of at least 1 programming language.\n3. Have made several technical projects to showcase on your resume.\n\nIf you have not fulfilled those criteria, take the time to do so. Review old notes and past programming assignments. Youtube and Google will always be your best friends.",
+    "source": "documents/cs-club/interview_prep.txt",
+    "filename": "interview_prep.txt",
+    "title": "Technical Interviewing?",
+    "section_heading": "When should I start?",
+    "chunk_index": 1,
+    "word_count": 64
+  },
+  {
+    "id": "interview_prep::2",
+    "text": "The Study Process\nOnce you're mentally prepared you can start answering coding interview questions. An extremely popular platform for doing so is called LeetCode (https://leetcode.com/).\n\nLeetCode is a website that hosts an extensive catalog of interview questions that have been asked before. Thus, you will know you're not wasting your time.\n\nSolving these questions take time and arduous preparation. When you try one of these questions for the first time, you may be shocked at how difficult it is. However, the more you study by watching videos and submitting responses through trial and error, the more you will learn.",
+    "source": "documents/cs-club/interview_prep.txt",
+    "filename": "interview_prep.txt",
+    "title": "Technical Interviewing?",
+    "section_heading": "The Study Process",
+    "chunk_index": 2,
+    "word_count": 99
+  },
+  {
+    "id": "interview_prep::3",
+    "text": "A Personal Guide\nTech Interview Handbook (https://www.techinterviewhandbook.org/) teaches you everything you need to know for behavioral and technical interviews, no matter your experience level.\n\nTake some time out of your day to read a little bit. If you're inexperienced, this will broaden your eyes dramatically.",
+    "source": "documents/cs-club/interview_prep.txt",
+    "filename": "interview_prep.txt",
+    "title": "Technical Interviewing?",
+    "section_heading": "A Personal Guide",
+    "chunk_index": 3,
+    "word_count": 45
+  },
+  {
+    "id": "interview_prep::4",
+    "text": "A Curated Study Process\nInstead of doing LeetCode questions blindly, Grind 75 (https://www.techinterviewhandbook.org/grind75) from Tech Interview Handbook is neater and features an interactive study plan to answer LeetCode questions efficiently by letting you choose your own schedule.\n\nYou can choose the number of weeks and how many hours per week you want to study and it will curate questions accordingly. Choose the schedule that fits you best and if you would like, follow our recommended study plan below.",
+    "source": "documents/cs-club/interview_prep.txt",
+    "filename": "interview_prep.txt",
+    "title": "Technical Interviewing?",
+    "section_heading": "A Curated Study Process",
+    "chunk_index": 4,
+    "word_count": 78
+  },
+  {
+    "id": "interview_prep::5",
+    "text": "Our Recommended Study Plan\n1. Start with a question on Grind 75 and answer it on your own in the recommended time.\n2. If you solved it, give yourself a pat on the back. If not, find a solution online on YouTube or Google and understand the differences in thought processes and logic between their approach and yours. Take physical notes.\n3. Take that online solution and physically code it. Don't copy and paste. This will develop muscle memory. Save that question for the future.\n4. Repeat for other questions in that week. Don't overwhelm yourself.\n5. At the beginning of the next week, take those saved questions and try them again without referencing anything. If you solved it, great job! You're learning. If not, repeat steps 2-3. Eventually, you will understand them. If you feel overwhelmed, decrease your load.\n6. Repeat for the entire list until you've reached the end of the schedule.",
+    "source": "documents/cs-club/interview_prep.txt",
+    "filename": "interview_prep.txt",
+    "title": "Technical Interviewing?",
+    "section_heading": "Our Recommended Study Plan",
+    "chunk_index": 5,
+    "word_count": 154
+  },
+  {
+    "id": "interview_prep::6",
+    "text": "Too difficult?\nMany interview questions require knowledge of data structures and algorithms: complex concepts that are taught in upper-level courses in general and at Hunter(Mainly 235 and 335). While previous knowledge would be helpful, it is entirely possible to understand these by directly applying them to interview questions as you learn them.",
+    "source": "documents/cs-club/interview_prep.txt",
+    "filename": "interview_prep.txt",
+    "title": "Technical Interviewing?",
+    "section_heading": "Too difficult?",
+    "chunk_index": 6,
+    "word_count": 52
+  },
+  {
+    "id": "interview_prep::7",
+    "text": "Final Takeaways\nIt's easy to become frustrated when you can't solve a question or are completely lost. We can't guide you to every single resource available on the internet. You will have to guide yourself and trust the process if you are truly passionate about the path you chose.",
+    "source": "documents/cs-club/interview_prep.txt",
+    "filename": "interview_prep.txt",
+    "title": "Technical Interviewing?",
+    "section_heading": "Final Takeaways",
+    "chunk_index": 7,
+    "word_count": 49
+  },
+  {
+    "id": "hackathons_research_cuny_resources::0",
+    "text": "Hackathons, Research, and CUNY Resources\nClasses are important, but classes alone are usually not enough to stand out.\n\nIf you only go to class, submit assignments, and leave campus, you may graduate with a degree but not much to talk about in interviews. That does not mean you failed. It just means you need to start using the resources around you.",
+    "source": "documents/hunter_cs_extra_sources/hackathons_research_cuny_resources.txt",
+    "filename": "hackathons_research_cuny_resources.txt",
+    "title": "Hackathons, Research, and CUNY Resources",
+    "section_heading": "Hackathons, Research, and CUNY Resources",
+    "chunk_index": 0,
+    "word_count": 61
+  },
+  {
+    "id": "hackathons_research_cuny_resources::1",
+    "text": "Hackathons\nA hackathon is an event where you build a project in a short amount of time, usually with a team. You do not need to be an expert to attend one. In fact, hackathons are one of the best places to learn because everyone is trying to build something quickly.\n\nIf you are a beginner, your goal should not be to win. Your goal should be to learn, meet people, and finish something. Even a messy project can become a resume bullet if you can explain what you built and what you learned.\n\nMajor League Hacking (https://www.mlh.com/) is a popular place to find student hackathons. You can also look for CUNY hackathons, NYC tech events, and club-hosted project nights.",
+    "source": "documents/hunter_cs_extra_sources/hackathons_research_cuny_resources.txt",
+    "filename": "hackathons_research_cuny_resources.txt",
+    "title": "Hackathons, Research, and CUNY Resources",
+    "section_heading": "Hackathons",
+    "chunk_index": 1,
+    "word_count": 120
+  },
+  {
+    "id": "hackathons_research_cuny_resources::2",
+    "text": "Research\nResearch is another option that many CS students ignore. If you like AI, machine learning, robotics, visualization, programming languages, security, data science, or theory, research can help you explore those interests more deeply.\n\nHunter has undergraduate research resources, and the CS department sometimes lists research opportunities with faculty. You do not need to know everything before reaching out, but you should be respectful and prepared.\n\nIf you email a professor, do not write a lazy message like \"Do you have research?\" Instead, mention who you are, what class you are in, what topic interests you, and why their work caught your attention.\n\nExample:\nHello Professor,\nMy name is __ and I am a Hunter CS student currently taking __. I saw that your research involves __ and I am interested in learning more about that area. I am still building my skills, but I would appreciate any advice on how a student could get involved or prepare for future research opportunities.\n\nKeep it short. Professors are busy.",
+    "source": "documents/hunter_cs_extra_sources/hackathons_research_cuny_resources.txt",
+    "filename": "hackathons_research_cuny_resources.txt",
+    "title": "Hackathons, Research, and CUNY Resources",
+    "section_heading": "Research",
+    "chunk_index": 2,
+    "word_count": 168
+  },
+  {
+    "id": "hackathons_research_cuny_resources::3",
+    "text": "CUNY Tech Prep\nCUNY Tech Prep (https://cunytechprep.org/) is a strong resource for CUNY CS and related majors. It focuses on technical skills, professional development, and helping students prepare for tech jobs in NYC.\n\nIf you are eligible, take it seriously. A program like this can give you structure, community, projects, interview practice, and career guidance. Many students need that extra structure because it is hard to figure everything out alone.",
+    "source": "documents/hunter_cs_extra_sources/hackathons_research_cuny_resources.txt",
+    "filename": "hackathons_research_cuny_resources.txt",
+    "title": "Hackathons, Research, and CUNY Resources",
+    "section_heading": "CUNY Tech Prep",
+    "chunk_index": 3,
+    "word_count": 70
+  },
+  {
+    "id": "hackathons_research_cuny_resources::4",
+    "text": "Hunter Career Center\nDo not ignore the Hunter Career Center. Even if it is not specifically a tech office, it can still help with resumes, internships, Handshake, and general career planning.\n\nA lot of students only use career services when they are desperate. That is too late. Use them before you feel ready. Ask for resume feedback. Ask about internship credit. Ask how to use Handshake. Ask what events are coming up.",
+    "source": "documents/hunter_cs_extra_sources/hackathons_research_cuny_resources.txt",
+    "filename": "hackathons_research_cuny_resources.txt",
+    "title": "Hackathons, Research, and CUNY Resources",
+    "section_heading": "Hunter Career Center",
+    "chunk_index": 4,
+    "word_count": 72
+  },
+  {
+    "id": "hackathons_research_cuny_resources::5",
+    "text": "Final Takeaways\nIf you want to grow as a CS student, you need to collect experiences outside class. That can be hackathons, research, CUNY Tech Prep, club projects, internships, or volunteering.\n\nYou do not need to do all of them. Pick one thing and actually commit to it. Opportunities usually come from motion. If you stay invisible, it becomes much harder for people to help you.\n\nHelpful Sources\nCUNY Tech Prep: https://cunytechprep.org/\nHunter Undergraduate Research: https://www.hunter.cuny.edu/students/opportunities/research/\nHunter Career Center Internships: https://www.hunter.cuny.edu/students/career-center/students/internships/\nMajor League Hacking: https://www.mlh.com/",
+    "source": "documents/hunter_cs_extra_sources/hackathons_research_cuny_resources.txt",
+    "filename": "hackathons_research_cuny_resources.txt",
+    "title": "Hackathons, Research, and CUNY Resources",
+    "section_heading": "Final Takeaways",
+    "chunk_index": 5,
+    "word_count": 85
+  },
+  {
+    "id": "hunter_cs_course_planning::0",
+    "text": "Planning Your CS Classes at Hunter\nChoosing CS classes at Hunter can be confusing because some classes depend heavily on prerequisites. If you do not plan ahead, you may accidentally delay yourself by a semester or even a full year.\n\nThis is not meant to replace official advising. Always check DegreeWorks, the Hunter catalog, and the Computer Science Department website. This is just a student-friendly explanation of how to think about the major.",
+    "source": "documents/hunter_cs_extra_sources/hunter_cs_course_planning.txt",
+    "filename": "hunter_cs_course_planning.txt",
+    "title": "Planning Your CS Classes at Hunter",
+    "section_heading": "Planning Your CS Classes at Hunter",
+    "chunk_index": 0,
+    "word_count": 73
+  },
+  {
+    "id": "hunter_cs_course_planning::1",
+    "text": "The Main Sequences\nHunter's CS major has a few major course chains that matter a lot. The programming and data structures sequence is usually CSCI 135, then CSCI 235, then CSCI 335. This is where you build your coding foundation, then data structures, then algorithms.\n\nThere is also the architecture and logic side, which includes courses like CSCI 145, CSCI 245, and CSCI 345 depending on your catalog year and requirements. These classes are different from regular programming classes. You may write less code, but the concepts can still be difficult.\n\nDo not treat all CS classes as the same type of workload. A class with programming assignments, a math-heavy class, and a theory-heavy class can all be hard in different ways.",
+    "source": "documents/hunter_cs_extra_sources/hunter_cs_course_planning.txt",
+    "filename": "hunter_cs_course_planning.txt",
+    "title": "Planning Your CS Classes at Hunter",
+    "section_heading": "The Main Sequences",
+    "chunk_index": 1,
+    "word_count": 122
+  },
+  {
+    "id": "hunter_cs_course_planning::2",
+    "text": "Where Do I Start?\nMost students start with CSCI 127 if they are new to programming. If you already have experience, you may feel like the beginning is slow, but do not skip the fundamentals mentally. Hunter CS gets harder later and weak fundamentals will catch up to you.\n\nCSCI 135 is where you should become much more serious. If you struggled in 127, review before 135 starts. If you struggled in 135, review before 235 starts. Do not carry confusion from one class into the next and hope it disappears.",
+    "source": "documents/hunter_cs_extra_sources/hunter_cs_course_planning.txt",
+    "filename": "hunter_cs_course_planning.txt",
+    "title": "Planning Your CS Classes at Hunter",
+    "section_heading": "Where Do I Start?",
+    "chunk_index": 2,
+    "word_count": 91
+  },
+  {
+    "id": "hunter_cs_course_planning::3",
+    "text": "How Many CS Classes Should I Take?\nA common mistake is stacking too many difficult CS and math classes in one semester. Just because CUNYfirst lets you enroll does not mean it is a good idea.\n\nIf you are taking a class like CSCI 235 or CSCI 335, assume you will need consistent weekly study time. These are not classes where you can ignore everything until the exam week and magically catch up.\n\nIf you have work, commuting, club responsibilities, family responsibilities, or a weak math background, be honest with yourself. Taking one less hard class and doing well is better than taking too much and failing one.",
+    "source": "documents/hunter_cs_extra_sources/hunter_cs_course_planning.txt",
+    "filename": "hunter_cs_course_planning.txt",
+    "title": "Planning Your CS Classes at Hunter",
+    "section_heading": "How Many CS Classes Should I Take?",
+    "chunk_index": 3,
+    "word_count": 108
+  },
+  {
+    "id": "hunter_cs_course_planning::4",
+    "text": "Before Registration\nBefore you register, do these things:\n1. Check prerequisites.\n2. Check DegreeWorks.\n3. Look at the professor if available.\n4. Ask upperclassmen about workload.\n5. Make a weekly schedule before classes start.\n6. Leave time for projects, internships, and applications.\n\nYour goal is not just to finish the major. Your goal is to finish while still having enough energy to build a resume, apply to internships, and learn outside of class.",
+    "source": "documents/hunter_cs_extra_sources/hunter_cs_course_planning.txt",
+    "filename": "hunter_cs_course_planning.txt",
+    "title": "Planning Your CS Classes at Hunter",
+    "section_heading": "Before Registration",
+    "chunk_index": 4,
+    "word_count": 73
+  },
+  {
+    "id": "hunter_cs_course_planning::5",
+    "text": "The Minimum Grade Mindset\nFor CS courses that count toward the major, do not aim for the bare minimum. The department requires strong enough grades for courses to count, and future classes build on previous ones.\n\nEven if you pass a class, ask yourself if you actually learned the material. Passing CSCI 235 without understanding data structures will make CSCI 335 and technical interviews much harder.",
+    "source": "documents/hunter_cs_extra_sources/hunter_cs_course_planning.txt",
+    "filename": "hunter_cs_course_planning.txt",
+    "title": "Planning Your CS Classes at Hunter",
+    "section_heading": "The Minimum Grade Mindset",
+    "chunk_index": 5,
+    "word_count": 66
+  },
+  {
+    "id": "hunter_cs_course_planning::6",
+    "text": "Final Takeaways\nPlan your CS major like a roadmap, not like a random list of classes. Know which classes unlock the next ones. Know which semesters will be heavy. Know when to slow down.\n\nIf you are confused, talk to an advisor, ask the department, and ask students who already took the class. Do not wait until registration week to find out that the class you needed has a prerequisite you missed.\n\nHelpful Sources\nHunter CS Major Information: https://www.cs.hunter.cuny.edu/how_to_major.html\nHunter CS FAQs: https://www.hunter.cuny.edu/artsci/computer-science/faqs/\nHunter Undergraduate Catalog: https://hunter-undergraduate.catalog.cuny.edu/",
+    "source": "documents/hunter_cs_extra_sources/hunter_cs_course_planning.txt",
+    "filename": "hunter_cs_course_planning.txt",
+    "title": "Planning Your CS Classes at Hunter",
+    "section_heading": "Final Takeaways",
+    "chunk_index": 6,
+    "word_count": 87
+  },
+  {
+    "id": "neetcode_interview_prep::0",
+    "text": "Updated Interview Prep with NeetCode\nIf you are preparing for software engineering interviews, do not just open LeetCode randomly and start suffering.\n\nThat is how a lot of students burn out. They solve one easy question, get destroyed by a medium, look at the solution, feel stupid, and stop studying for 3 weeks.\n\nYou need structure.",
+    "source": "documents/hunter_cs_extra_sources/neetcode_interview_prep.txt",
+    "filename": "neetcode_interview_prep.txt",
+    "title": "Updated Interview Prep with NeetCode",
+    "section_heading": "Updated Interview Prep with NeetCode",
+    "chunk_index": 0,
+    "word_count": 56
+  },
+  {
+    "id": "neetcode_interview_prep::1",
+    "text": "Why NeetCode?\nNeetCode (https://neetcode.io/) is one of the most popular interview prep platforms right now because it organizes problems by patterns instead of throwing random questions at you. It includes roadmaps, explanations, coding problems, courses, and newer features beyond just the classic Blind 75 or Grind 75 style lists.\n\nBlind 75 and Grind 75 are still useful, but NeetCode feels more updated and easier to follow for many students because the roadmap shows you what topic you are actually studying. Arrays, two pointers, sliding window, stack, binary search, trees, graphs, dynamic programming, and more are separated clearly.\n\nThis matters because interviews are not about memorizing 300 solutions. Interviews are about recognizing patterns.",
+    "source": "documents/hunter_cs_extra_sources/neetcode_interview_prep.txt",
+    "filename": "neetcode_interview_prep.txt",
+    "title": "Updated Interview Prep with NeetCode",
+    "section_heading": "Why NeetCode?",
+    "chunk_index": 1,
+    "word_count": 112
+  },
+  {
+    "id": "neetcode_interview_prep::2",
+    "text": "When Should I Start?\nIf you are in CSCI 127 and still learning loops and functions, focus on class first. You can do very easy problems, but do not panic if you cannot solve interview questions yet.\n\nIf you are in CSCI 135, start slowly. Practice basic arrays, strings, hash maps, and recursion.\n\nIf you are in CSCI 235, start taking interview prep more seriously because data structures are directly connected to technical interviews.\n\nIf you are in CSCI 335 or finished it, you should be practicing consistently if you want internships or new grad roles.",
+    "source": "documents/hunter_cs_extra_sources/neetcode_interview_prep.txt",
+    "filename": "neetcode_interview_prep.txt",
+    "title": "Updated Interview Prep with NeetCode",
+    "section_heading": "When Should I Start?",
+    "chunk_index": 2,
+    "word_count": 96
+  },
+  {
+    "id": "neetcode_interview_prep::3",
+    "text": "How to Study\nDo not just watch solutions. That feels productive, but it is not the same as solving.\n\nTry this:\n1. Pick one topic on NeetCode.\n2. Watch or read the basic explanation if you are new.\n3. Try an easy problem for 20 to 30 minutes.\n4. If you are stuck, look at hints or the solution.\n5. Re-code the solution without copy and paste.\n6. Write down the pattern in your own words.\n7. Revisit the problem a few days later.\n\nIf you cannot solve it again later, that is normal. It means you did not fully learn it yet. Repeat the process.",
+    "source": "documents/hunter_cs_extra_sources/neetcode_interview_prep.txt",
+    "filename": "neetcode_interview_prep.txt",
+    "title": "Updated Interview Prep with NeetCode",
+    "section_heading": "How to Study",
+    "chunk_index": 3,
+    "word_count": 106
+  },
+  {
+    "id": "neetcode_interview_prep::4",
+    "text": "Do Not Ignore Behavioral Prep\nTechnical prep gets the most attention, but behavioral interviews matter too. You should have stories for teamwork, conflict, leadership, failure, debugging, learning something new, and dealing with pressure.\n\nUse your class projects, club work, hackathons, tutoring, part-time jobs, and group assignments. You do not need to have worked at a tech company to have good stories. You just need to explain your situation clearly.",
+    "source": "documents/hunter_cs_extra_sources/neetcode_interview_prep.txt",
+    "filename": "neetcode_interview_prep.txt",
+    "title": "Updated Interview Prep with NeetCode",
+    "section_heading": "Do Not Ignore Behavioral Prep",
+    "chunk_index": 4,
+    "word_count": 69
+  },
+  {
+    "id": "neetcode_interview_prep::5",
+    "text": "A Simple Weekly Plan\nIf you are busy with Hunter classes, do not make an unrealistic plan.\n\nTry this:\n1. Two weekdays: 1 problem each.\n2. One weekend day: 2 problems and review notes.\n3. One day: update resume, LinkedIn, or applications.\n4. One day: rest or catch up.\n\nConsistency beats intensity. Doing 4 problems every week for 3 months is better than doing 20 problems in one weekend and quitting.",
+    "source": "documents/hunter_cs_extra_sources/neetcode_interview_prep.txt",
+    "filename": "neetcode_interview_prep.txt",
+    "title": "Updated Interview Prep with NeetCode",
+    "section_heading": "A Simple Weekly Plan",
+    "chunk_index": 5,
+    "word_count": 71
+  },
+  {
+    "id": "neetcode_interview_prep::6",
+    "text": "Final Takeaways\nNeetCode is a strong resource because it gives structure. Use it to learn patterns, not to memorize answers.\n\nIf you are bad at interviews right now, that does not mean you are dumb. It means you have not practiced enough yet. Technical interviewing is a separate skill from being a good student, and like any skill, it improves when you train it consistently.\n\nHelpful Sources\nNeetCode: https://neetcode.io/\nNeetCode Roadmap: https://neetcode.io/roadmap\nCodePath Technical Interview Prep: https://www.codepath.org/courses/tech-interview-prep\nTech Interview Handbook: https://www.techinterviewhandbook.org/",
+    "source": "documents/hunter_cs_extra_sources/neetcode_interview_prep.txt",
+    "filename": "neetcode_interview_prep.txt",
+    "title": "Updated Interview Prep with NeetCode",
+    "section_heading": "Final Takeaways",
+    "chunk_index": 6,
+    "word_count": 81
+  },
+  {
+    "id": "projects_for_hunter_cs_students::0",
+    "text": "Projects for CS Students\nIf you are a CS student and you do not have experience yet, projects are your best friend.\n\nA project proves that you can take an idea, turn it into code, debug it, and explain it to someone else. It does not need to be the next Facebook. It just needs to show that you can build something real.",
+    "source": "documents/hunter_cs_extra_sources/projects_for_hunter_cs_students.txt",
+    "filename": "projects_for_hunter_cs_students.txt",
+    "title": "Projects for CS Students",
+    "section_heading": "Projects for CS Students",
+    "chunk_index": 0,
+    "word_count": 63
+  },
+  {
+    "id": "projects_for_hunter_cs_students::1",
+    "text": "Why Projects Matter\nA lot of students only do class assignments and then wonder why their resume looks empty. Class assignments are useful, but employers know everyone in the class did the same thing.\n\nYour own project gives you something unique to talk about. It lets you show your interests, your problem-solving ability, and your willingness to learn outside of class.\n\nIf you are a Hunter student, you can make projects based on actual student problems. Build something for commuters. Build something for tracking degree requirements. Build something for club events. Build something that helps students find study groups. The best project ideas usually come from annoying problems you actually understand.",
+    "source": "documents/hunter_cs_extra_sources/projects_for_hunter_cs_students.txt",
+    "filename": "projects_for_hunter_cs_students.txt",
+    "title": "Projects for CS Students",
+    "section_heading": "Why Projects Matter",
+    "chunk_index": 1,
+    "word_count": 111
+  },
+  {
+    "id": "projects_for_hunter_cs_students::2",
+    "text": "Beginner Project Ideas\nIf you are in CSCI 127 or CSCI 135, do not overcomplicate it. Start with small projects:\n1. A GPA calculator.\n2. A simple flashcard app.\n3. A class schedule organizer.\n4. A command-line to-do list.\n5. A basic website for a club.\n6. A study timer that tracks sessions.\n7. A Python script that cleans messy CSV files.\n\nThese may sound basic, but a finished basic project is better than an unfinished complicated one.",
+    "source": "documents/hunter_cs_extra_sources/projects_for_hunter_cs_students.txt",
+    "filename": "projects_for_hunter_cs_students.txt",
+    "title": "Projects for CS Students",
+    "section_heading": "Beginner Project Ideas",
+    "chunk_index": 2,
+    "word_count": 78
+  },
+  {
+    "id": "projects_for_hunter_cs_students::3",
+    "text": "Intermediate Project Ideas\nIf you have taken CSCI 235 or know data structures, start building projects with more structure:\n1. A course planner that checks prerequisites.\n2. A study group matching app.\n3. A Rate My Professor style search tool for your own notes.\n4. A tutoring availability scheduler.\n5. A web app that tracks internship applications.\n6. A Discord bot for club reminders.\n7. A simple recommendation system for electives.\n\nAt this stage, start using GitHub properly. Write a README. Explain what the project does, what technologies you used, and how someone can run it. A project with no README looks unfinished even if the code works.",
+    "source": "documents/hunter_cs_extra_sources/projects_for_hunter_cs_students.txt",
+    "filename": "projects_for_hunter_cs_students.txt",
+    "title": "Projects for CS Students",
+    "section_heading": "Intermediate Project Ideas",
+    "chunk_index": 3,
+    "word_count": 108
+  },
+  {
+    "id": "projects_for_hunter_cs_students::4",
+    "text": "What Technologies Should I Use?\nDo not spend 3 weeks choosing a tech stack. If you are new, use whatever helps you finish.\n\nFor web apps, React, Flask, FastAPI, Node.js, or Next.js are all fine. For data projects, Python, pandas, Jupyter notebooks, and Streamlit are fine. For AI projects, start with simple APIs, embeddings, or small local models before trying to build something massive.\n\nThe point is not to use the trendiest tool. The point is to build, finish, explain, and improve.",
+    "source": "documents/hunter_cs_extra_sources/projects_for_hunter_cs_students.txt",
+    "filename": "projects_for_hunter_cs_students.txt",
+    "title": "Projects for CS Students",
+    "section_heading": "What Technologies Should I Use?",
+    "chunk_index": 4,
+    "word_count": 82
+  },
+  {
+    "id": "projects_for_hunter_cs_students::5",
+    "text": "How to Make a Project Resume-Worthy\nA project becomes resume-worthy when it has:\n1. A clear problem.\n2. A working demo or screenshots.\n3. A GitHub repo.\n4. A README.\n5. Some technical challenge.\n6. A short explanation of impact.\n\nInstead of writing \"Made a website\", write what the website actually does.\n\nBad: Made a student app.\n\nBetter: Built a Flask web app that helps Hunter CS students track internship applications, filter by deadline, and save recruiter contacts.",
+    "source": "documents/hunter_cs_extra_sources/projects_for_hunter_cs_students.txt",
+    "filename": "projects_for_hunter_cs_students.txt",
+    "title": "Projects for CS Students",
+    "section_heading": "How to Make a Project Resume-Worthy",
+    "chunk_index": 5,
+    "word_count": 78
+  },
+  {
+    "id": "projects_for_hunter_cs_students::6",
+    "text": "Final Takeaways\nYou do not need permission to start building. You do not need to wait until you know everything. You learn by making things, breaking them, and fixing them.\n\nPick a small problem, finish the first version, then improve it. That is how you go from \"I have no experience\" to \"I have something to show.\"\n\nHelpful Sources\nGitHub Student Developer Pack: https://education.github.com/pack\nroadmap.sh: https://roadmap.sh/\nHunter Computer Science Department: https://www.hunter.cuny.edu/artsci/computer-science/",
+    "source": "documents/hunter_cs_extra_sources/projects_for_hunter_cs_students.txt",
+    "filename": "projects_for_hunter_cs_students.txt",
+    "title": "Projects for CS Students",
+    "section_heading": "Final Takeaways",
+    "chunk_index": 6,
+    "word_count": 71
+  },
+  {
+    "id": "women_in_cs_hunter::0",
+    "text": "Women in CS at Hunter\nComputer Science can feel intimidating for anyone, but it can feel even more isolating if you are a woman or nonbinary student in a class where you do not see many people like you.\n\nIf that is you, you are not behind, you are not lucky to be here, and you are not bothering anyone by asking questions. You are a CS student. Act like you belong because you do.",
+    "source": "documents/hunter_cs_extra_sources/women_in_cs_hunter.txt",
+    "filename": "women_in_cs_hunter.txt",
+    "title": "Women in CS at Hunter",
+    "section_heading": "Women in CS at Hunter",
+    "chunk_index": 0,
+    "word_count": 75
+  },
+  {
+    "id": "women_in_cs_hunter::1",
+    "text": "Why Community Matters\nA lot of students think success in CS is purely about being smart. That is not true. Success is also about environment, confidence, consistency, and the people you surround yourself with.\n\nIf you are always studying alone, struggling alone, and comparing yourself to people who have been coding since middle school, you are going to burn yourself out. Find people who are also learning. Find upperclassmen who are willing to explain things. Find communities where you can ask questions without feeling judged.\n\nAt Hunter, your first community can simply be classmates from CSCI 127, CSCI 135, CSCI 235, or whatever class you are currently taking. Sit next to people. Ask if they want to study before exams. Join club events even if you do not know anyone yet. The hardest part is walking in for the first time.",
+    "source": "documents/hunter_cs_extra_sources/women_in_cs_hunter.txt",
+    "filename": "women_in_cs_hunter.txt",
+    "title": "Women in CS at Hunter",
+    "section_heading": "Why Community Matters",
+    "chunk_index": 1,
+    "word_count": 141
+  },
+  {
+    "id": "women_in_cs_hunter::2",
+    "text": "Outside Communities\nThere are also communities outside Hunter that are specifically made to support women in tech. Rewriting the Code (https://rewritingthecode.org/) is a free community for university and early career women in tech. They offer community, career events, mentorship, and resources. Break Through Tech (https://www.breakthroughtech.org/programs/) is another program that focuses on helping students build skills in areas like AI, machine learning, and data science.\n\nDo not join every single thing and overwhelm yourself. Join one or two communities and actually use them. A community is only helpful if you show up, ask questions, and take advantage of what they offer.",
+    "source": "documents/hunter_cs_extra_sources/women_in_cs_hunter.txt",
+    "filename": "women_in_cs_hunter.txt",
+    "title": "Women in CS at Hunter",
+    "section_heading": "Outside Communities",
+    "chunk_index": 2,
+    "word_count": 100
+  },
+  {
+    "id": "women_in_cs_hunter::3",
+    "text": "Impostor Syndrome\nThere will be moments where you feel like everyone understands recursion, pointers, proofs, Git, APIs, or algorithms faster than you. That does not mean you are not meant for CS. It means you are learning something difficult.\n\nA lot of people are pretending to understand more than they actually do. Some students look confident because they already saw the material before. Some students are just good at talking. Do not confuse confidence with competence.",
+    "source": "documents/hunter_cs_extra_sources/women_in_cs_hunter.txt",
+    "filename": "women_in_cs_hunter.txt",
+    "title": "Women in CS at Hunter",
+    "section_heading": "Impostor Syndrome",
+    "chunk_index": 3,
+    "word_count": 76
+  },
+  {
+    "id": "women_in_cs_hunter::4",
+    "text": "What Should I Focus On?\nIf you are early in the major, focus on getting strong with the basics:\n1. One programming language.\n2. Debugging without panicking.\n3. Reading error messages.\n4. Asking better questions.\n5. Building small projects.\n6. Getting comfortable with math and logic.\n\nOnce you have those, start thinking about internships, research, hackathons, and interview prep.",
+    "source": "documents/hunter_cs_extra_sources/women_in_cs_hunter.txt",
+    "filename": "women_in_cs_hunter.txt",
+    "title": "Women in CS at Hunter",
+    "section_heading": "What Should I Focus On?",
+    "chunk_index": 4,
+    "word_count": 59
+  },
+  {
+    "id": "women_in_cs_hunter::5",
+    "text": "Finding Mentors\nA mentor does not have to be a senior engineer at Google. A mentor can be an upperclassman who already took CSCI 235. It can be someone who got their first internship. It can be someone in a club who knows how to fix your resume.\n\nAsk specific questions. Instead of saying \"Can you mentor me?\", ask \"How did you study for CSCI 335?\" or \"Can you look at my resume for 10 minutes?\" People are more likely to help when the ask is clear.",
+    "source": "documents/hunter_cs_extra_sources/women_in_cs_hunter.txt",
+    "filename": "women_in_cs_hunter.txt",
+    "title": "Women in CS at Hunter",
+    "section_heading": "Finding Mentors",
+    "chunk_index": 5,
+    "word_count": 87
+  },
+  {
+    "id": "women_in_cs_hunter::6",
+    "text": "Final Takeaways\nYou do not have to become the loudest person in the room to succeed in CS. You just need to keep showing up, keep learning, and keep putting yourself in places where opportunities can find you.\n\nDo not isolate yourself. Do not wait until you feel fully ready. You probably will not feel ready for a while. Apply anyway, attend anyway, ask anyway, and build anyway.\n\nHelpful Sources\nRewriting the Code: https://rewritingthecode.org/\nBreak Through Tech AI Program: https://www.breakthroughtech.org/programs/\nHunter Computer Science Department: https://www.hunter.cuny.edu/artsci/computer-science/",
+    "source": "documents/hunter_cs_extra_sources/women_in_cs_hunter.txt",
+    "filename": "women_in_cs_hunter.txt",
+    "title": "Women in CS at Hunter",
+    "section_heading": "Final Takeaways",
+    "chunk_index": 6,
+    "word_count": 85
+  }
+]
