@@ -1,0 +1,63 @@
+Updated Interview Prep with NeetCode
+If you are preparing for software engineering interviews, do not just open LeetCode randomly and start suffering.
+
+That is how a lot of students burn out. They solve one easy question, get destroyed by a medium, look at the solution, feel stupid, and stop studying for 3 weeks.
+
+You need structure.
+
+Why NeetCode?
+[NeetCode](https://neetcode.io/) is one of the most popular interview prep platforms right now because it organizes problems by patterns instead of throwing random questions at you. It includes roadmaps, explanations, coding problems, courses, and newer features beyond just the classic Blind 75 or Grind 75 style lists.
+
+Blind 75 and Grind 75 are still useful, but NeetCode feels more updated and easier to follow for many students because the roadmap shows you what topic you are actually studying. Arrays, two pointers, sliding window, stack, binary search, trees, graphs, dynamic programming, and more are separated clearly.
+
+This matters because interviews are not about memorizing 300 solutions. Interviews are about recognizing patterns.
+
+When Should I Start?
+If you are in CSCI 127 and still learning loops and functions, focus on class first. You can do very easy problems, but do not panic if you cannot solve interview questions yet.
+
+If you are in CSCI 135, start slowly. Practice basic arrays, strings, hash maps, and recursion.
+
+If you are in CSCI 235, start taking interview prep more seriously because data structures are directly connected to technical interviews.
+
+If you are in CSCI 335 or finished it, you should be practicing consistently if you want internships or new grad roles.
+
+How to Study
+Do not just watch solutions. That feels productive, but it is not the same as solving.
+
+Try this:
+1. Pick one topic on NeetCode.
+2. Watch or read the basic explanation if you are new.
+3. Try an easy problem for 20 to 30 minutes.
+4. If you are stuck, look at hints or the solution.
+5. Re-code the solution without copy and paste.
+6. Write down the pattern in your own words.
+7. Revisit the problem a few days later.
+
+If you cannot solve it again later, that is normal. It means you did not fully learn it yet. Repeat the process.
+
+Do Not Ignore Behavioral Prep
+Technical prep gets the most attention, but behavioral interviews matter too. You should have stories for teamwork, conflict, leadership, failure, debugging, learning something new, and dealing with pressure.
+
+Use your class projects, club work, hackathons, tutoring, part-time jobs, and group assignments. You do not need to have worked at a tech company to have good stories. You just need to explain your situation clearly.
+
+A Simple Weekly Plan
+If you are busy with Hunter classes, do not make an unrealistic plan.
+
+Try this:
+1. Two weekdays: 1 problem each.
+2. One weekend day: 2 problems and review notes.
+3. One day: update resume, LinkedIn, or applications.
+4. One day: rest or catch up.
+
+Consistency beats intensity. Doing 4 problems every week for 3 months is better than doing 20 problems in one weekend and quitting.
+
+Final Takeaways
+NeetCode is a strong resource because it gives structure. Use it to learn patterns, not to memorize answers.
+
+If you are bad at interviews right now, that does not mean you are dumb. It means you have not practiced enough yet. Technical interviewing is a separate skill from being a good student, and like any skill, it improves when you train it consistently.
+
+Helpful Sources
+NeetCode: https://neetcode.io/
+NeetCode Roadmap: https://neetcode.io/roadmap
+CodePath Technical Interview Prep: https://www.codepath.org/courses/tech-interview-prep
+Tech Interview Handbook: https://www.techinterviewhandbook.org/

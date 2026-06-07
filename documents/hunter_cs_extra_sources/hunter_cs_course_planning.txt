@@ -1,0 +1,49 @@
+Planning Your CS Classes at Hunter
+Choosing CS classes at Hunter can be confusing because some classes depend heavily on prerequisites. If you do not plan ahead, you may accidentally delay yourself by a semester or even a full year.
+
+This is not meant to replace official advising. Always check DegreeWorks, the Hunter catalog, and the Computer Science Department website. This is just a student-friendly explanation of how to think about the major.
+
+The Main Sequences
+Hunter's CS major has a few major course chains that matter a lot. The programming and data structures sequence is usually CSCI 135, then CSCI 235, then CSCI 335. This is where you build your coding foundation, then data structures, then algorithms.
+
+There is also the architecture and logic side, which includes courses like CSCI 145, CSCI 245, and CSCI 345 depending on your catalog year and requirements. These classes are different from regular programming classes. You may write less code, but the concepts can still be difficult.
+
+Do not treat all CS classes as the same type of workload. A class with programming assignments, a math-heavy class, and a theory-heavy class can all be hard in different ways.
+
+Where Do I Start?
+Most students start with CSCI 127 if they are new to programming. If you already have experience, you may feel like the beginning is slow, but do not skip the fundamentals mentally. Hunter CS gets harder later and weak fundamentals will catch up to you.
+
+CSCI 135 is where you should become much more serious. If you struggled in 127, review before 135 starts. If you struggled in 135, review before 235 starts. Do not carry confusion from one class into the next and hope it disappears.
+
+How Many CS Classes Should I Take?
+A common mistake is stacking too many difficult CS and math classes in one semester. Just because CUNYfirst lets you enroll does not mean it is a good idea.
+
+If you are taking a class like CSCI 235 or CSCI 335, assume you will need consistent weekly study time. These are not classes where you can ignore everything until the exam week and magically catch up.
+
+If you have work, commuting, club responsibilities, family responsibilities, or a weak math background, be honest with yourself. Taking one less hard class and doing well is better than taking too much and failing one.
+
+Before Registration
+Before you register, do these things:
+1. Check prerequisites.
+2. Check DegreeWorks.
+3. Look at the professor if available.
+4. Ask upperclassmen about workload.
+5. Make a weekly schedule before classes start.
+6. Leave time for projects, internships, and applications.
+
+Your goal is not just to finish the major. Your goal is to finish while still having enough energy to build a resume, apply to internships, and learn outside of class.
+
+The Minimum Grade Mindset
+For CS courses that count toward the major, do not aim for the bare minimum. The department requires strong enough grades for courses to count, and future classes build on previous ones.
+
+Even if you pass a class, ask yourself if you actually learned the material. Passing CSCI 235 without understanding data structures will make CSCI 335 and technical interviews much harder.
+
+Final Takeaways
+Plan your CS major like a roadmap, not like a random list of classes. Know which classes unlock the next ones. Know which semesters will be heavy. Know when to slow down.
+
+If you are confused, talk to an advisor, ask the department, and ask students who already took the class. Do not wait until registration week to find out that the class you needed has a prerequisite you missed.
+
+Helpful Sources
+Hunter CS Major Information: https://www.cs.hunter.cuny.edu/how_to_major.html
+Hunter CS FAQs: https://www.hunter.cuny.edu/artsci/computer-science/faqs/
+Hunter Undergraduate Catalog: https://hunter-undergraduate.catalog.cuny.edu/

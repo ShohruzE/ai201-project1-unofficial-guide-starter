@@ -1,0 +1,47 @@
+Women in CS at Hunter
+Computer Science can feel intimidating for anyone, but it can feel even more isolating if you are a woman or nonbinary student in a class where you do not see many people like you.
+
+If that is you, you are not behind, you are not lucky to be here, and you are not bothering anyone by asking questions. You are a CS student. Act like you belong because you do.
+
+Why Community Matters
+A lot of students think success in CS is purely about being smart. That is not true. Success is also about environment, confidence, consistency, and the people you surround yourself with.
+
+If you are always studying alone, struggling alone, and comparing yourself to people who have been coding since middle school, you are going to burn yourself out. Find people who are also learning. Find upperclassmen who are willing to explain things. Find communities where you can ask questions without feeling judged.
+
+At Hunter, your first community can simply be classmates from CSCI 127, CSCI 135, CSCI 235, or whatever class you are currently taking. Sit next to people. Ask if they want to study before exams. Join club events even if you do not know anyone yet. The hardest part is walking in for the first time.
+
+Outside Communities
+There are also communities outside Hunter that are specifically made to support women in tech. [Rewriting the Code](https://rewritingthecode.org/) is a free community for university and early career women in tech. They offer community, career events, mentorship, and resources. [Break Through Tech](https://www.breakthroughtech.org/programs/) is another program that focuses on helping students build skills in areas like AI, machine learning, and data science.
+
+Do not join every single thing and overwhelm yourself. Join one or two communities and actually use them. A community is only helpful if you show up, ask questions, and take advantage of what they offer.
+
+Impostor Syndrome
+There will be moments where you feel like everyone understands recursion, pointers, proofs, Git, APIs, or algorithms faster than you. That does not mean you are not meant for CS. It means you are learning something difficult.
+
+A lot of people are pretending to understand more than they actually do. Some students look confident because they already saw the material before. Some students are just good at talking. Do not confuse confidence with competence.
+
+What Should I Focus On?
+If you are early in the major, focus on getting strong with the basics:
+1. One programming language.
+2. Debugging without panicking.
+3. Reading error messages.
+4. Asking better questions.
+5. Building small projects.
+6. Getting comfortable with math and logic.
+
+Once you have those, start thinking about internships, research, hackathons, and interview prep.
+
+Finding Mentors
+A mentor does not have to be a senior engineer at Google. A mentor can be an upperclassman who already took CSCI 235. It can be someone who got their first internship. It can be someone in a club who knows how to fix your resume.
+
+Ask specific questions. Instead of saying "Can you mentor me?", ask "How did you study for CSCI 335?" or "Can you look at my resume for 10 minutes?" People are more likely to help when the ask is clear.
+
+Final Takeaways
+You do not have to become the loudest person in the room to succeed in CS. You just need to keep showing up, keep learning, and keep putting yourself in places where opportunities can find you.
+
+Do not isolate yourself. Do not wait until you feel fully ready. You probably will not feel ready for a while. Apply anyway, attend anyway, ask anyway, and build anyway.
+
+Helpful Sources
+Rewriting the Code: https://rewritingthecode.org/
+Break Through Tech AI Program: https://www.breakthroughtech.org/programs/
+Hunter Computer Science Department: https://www.hunter.cuny.edu/artsci/computer-science/

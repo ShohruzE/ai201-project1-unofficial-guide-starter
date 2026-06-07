@@ -1,0 +1,17 @@
+Career Paths
+There are many fields in Computer Science that you can pursue. Arguably, the most popular and oversaturated choice is becoming a Software Engineer.
+
+However, what if you want to pursue a different career but don't know what it entails?
+
+roadmap.sh is an open-source community effort to make clear the process necessary to pursue a certain career path in the development world through simple and objective roadmaps.
+
+It is a no-BS guide that features every single literal piece that you would need to know and learn to become the perfect employee in that particular field.
+
+If you're a perfectionist, go for every box, but roughly following the roadmap will place you on the right track you need to be successful in your dream job.
+
+How Do I Use It?
+Look through all of the paths that interest you and then dive deep into the concepts that entail them. Watch youtube videos, do research, and determine if it's something you see yourself doing.
+
+Now after doing that research you probably already have a rough idea of what you need to learn. Follow the roadmap and click on each box to see the recommended resources they provided.
+
+At this point, the only limitations are in yourself. Discipline yourself to study the necessary concepts, and you'll succeed.

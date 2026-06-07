@@ -1,0 +1,67 @@
+Projects for CS Students
+If you are a CS student and you do not have experience yet, projects are your best friend.
+
+A project proves that you can take an idea, turn it into code, debug it, and explain it to someone else. It does not need to be the next Facebook. It just needs to show that you can build something real.
+
+Why Projects Matter
+A lot of students only do class assignments and then wonder why their resume looks empty. Class assignments are useful, but employers know everyone in the class did the same thing.
+
+Your own project gives you something unique to talk about. It lets you show your interests, your problem-solving ability, and your willingness to learn outside of class.
+
+If you are a Hunter student, you can make projects based on actual student problems. Build something for commuters. Build something for tracking degree requirements. Build something for club events. Build something that helps students find study groups. The best project ideas usually come from annoying problems you actually understand.
+
+Beginner Project Ideas
+If you are in CSCI 127 or CSCI 135, do not overcomplicate it. Start with small projects:
+1. A GPA calculator.
+2. A simple flashcard app.
+3. A class schedule organizer.
+4. A command-line to-do list.
+5. A basic website for a club.
+6. A study timer that tracks sessions.
+7. A Python script that cleans messy CSV files.
+
+These may sound basic, but a finished basic project is better than an unfinished complicated one.
+
+Intermediate Project Ideas
+If you have taken CSCI 235 or know data structures, start building projects with more structure:
+1. A course planner that checks prerequisites.
+2. A study group matching app.
+3. A Rate My Professor style search tool for your own notes.
+4. A tutoring availability scheduler.
+5. A web app that tracks internship applications.
+6. A Discord bot for club reminders.
+7. A simple recommendation system for electives.
+
+At this stage, start using GitHub properly. Write a README. Explain what the project does, what technologies you used, and how someone can run it. A project with no README looks unfinished even if the code works.
+
+What Technologies Should I Use?
+Do not spend 3 weeks choosing a tech stack. If you are new, use whatever helps you finish.
+
+For web apps, React, Flask, FastAPI, Node.js, or Next.js are all fine. For data projects, Python, pandas, Jupyter notebooks, and Streamlit are fine. For AI projects, start with simple APIs, embeddings, or small local models before trying to build something massive.
+
+The point is not to use the trendiest tool. The point is to build, finish, explain, and improve.
+
+How to Make a Project Resume-Worthy
+A project becomes resume-worthy when it has:
+1. A clear problem.
+2. A working demo or screenshots.
+3. A GitHub repo.
+4. A README.
+5. Some technical challenge.
+6. A short explanation of impact.
+
+Instead of writing "Made a website", write what the website actually does.
+
+Bad: Made a student app.
+
+Better: Built a Flask web app that helps Hunter CS students track internship applications, filter by deadline, and save recruiter contacts.
+
+Final Takeaways
+You do not need permission to start building. You do not need to wait until you know everything. You learn by making things, breaking them, and fixing them.
+
+Pick a small problem, finish the first version, then improve it. That is how you go from "I have no experience" to "I have something to show."
+
+Helpful Sources
+GitHub Student Developer Pack: https://education.github.com/pack
+roadmap.sh: https://roadmap.sh/
+Hunter Computer Science Department: https://www.hunter.cuny.edu/artsci/computer-science/

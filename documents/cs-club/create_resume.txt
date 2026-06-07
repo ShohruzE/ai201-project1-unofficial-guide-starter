@@ -1,0 +1,22 @@
+General Guide
+There are many different intricacies when creating a resume. For the sake of simplicity, the following resources are catered towards people who desire a career in something programming related. Ex: Software Engineering, Data Science, etc. This [video](https://www.youtube.com/watch?v=BYUy1yvjHxE) from Google shows you exactly what they look for in their applicants as well as general tips.
+
+LaTeX Edited Resume
+Resumes can be created any way you want, but for ease of ATS and organization, it is recommended to use templates such as [Overleaf](https://www.overleaf.com/latex/templates/jakes-resume/syzfjbzwjncs).
+Note: This template is created in LaTeX, a special language used for formatting things nicely. It is confusing, but all you have to do is edit the text inside the brackets.
+
+Interactive Resume Builder
+If that doesn't fit your tastes, you can be more creative and have more freedom with [FlowCV](https://app.flowcv.com/resume) which is also a popular option among programmers.
+
+No Programming Experience?
+If you have little-to-no programming experience, follow this basic guide:
+1. List all experiences that you have: jobs, extracurriculars, awards/honors, etc. Don't worry about the length.
+2. Condense to 1 page to only showcase the most technical experiences.
+3. Reference below to add technical projects.
+
+No matter your year, it will always be beneficial to add relevant programming experience to show to employers that you know how to code and have promise and value to the company as an applicant.
+
+If you are taking your first programming class, don't worry. You can use the knowledge gained in this class to create cool projects to add to your resume to help you stand out.
+
+Anything will help. Find your passion and niche in computer science and make something happen.
+Ex: A passionate person would go online and look for language-specific project ideas and create something that interests them. A lazy person would store all of their knowledge in the back of their brain, never to be used again, and wonder why they aren't getting jobs.

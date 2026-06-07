@@ -1,0 +1,45 @@
+Hackathons, Research, and CUNY Resources
+Classes are important, but classes alone are usually not enough to stand out.
+
+If you only go to class, submit assignments, and leave campus, you may graduate with a degree but not much to talk about in interviews. That does not mean you failed. It just means you need to start using the resources around you.
+
+Hackathons
+A hackathon is an event where you build a project in a short amount of time, usually with a team. You do not need to be an expert to attend one. In fact, hackathons are one of the best places to learn because everyone is trying to build something quickly.
+
+If you are a beginner, your goal should not be to win. Your goal should be to learn, meet people, and finish something. Even a messy project can become a resume bullet if you can explain what you built and what you learned.
+
+[Major League Hacking](https://www.mlh.com/) is a popular place to find student hackathons. You can also look for CUNY hackathons, NYC tech events, and club-hosted project nights.
+
+Research
+Research is another option that many CS students ignore. If you like AI, machine learning, robotics, visualization, programming languages, security, data science, or theory, research can help you explore those interests more deeply.
+
+Hunter has undergraduate research resources, and the CS department sometimes lists research opportunities with faculty. You do not need to know everything before reaching out, but you should be respectful and prepared.
+
+If you email a professor, do not write a lazy message like "Do you have research?" Instead, mention who you are, what class you are in, what topic interests you, and why their work caught your attention.
+
+Example:
+Hello Professor,
+My name is __ and I am a Hunter CS student currently taking __. I saw that your research involves __ and I am interested in learning more about that area. I am still building my skills, but I would appreciate any advice on how a student could get involved or prepare for future research opportunities.
+
+Keep it short. Professors are busy.
+
+CUNY Tech Prep
+[CUNY Tech Prep](https://cunytechprep.org/) is a strong resource for CUNY CS and related majors. It focuses on technical skills, professional development, and helping students prepare for tech jobs in NYC.
+
+If you are eligible, take it seriously. A program like this can give you structure, community, projects, interview practice, and career guidance. Many students need that extra structure because it is hard to figure everything out alone.
+
+Hunter Career Center
+Do not ignore the Hunter Career Center. Even if it is not specifically a tech office, it can still help with resumes, internships, Handshake, and general career planning.
+
+A lot of students only use career services when they are desperate. That is too late. Use them before you feel ready. Ask for resume feedback. Ask about internship credit. Ask how to use Handshake. Ask what events are coming up.
+
+Final Takeaways
+If you want to grow as a CS student, you need to collect experiences outside class. That can be hackathons, research, CUNY Tech Prep, club projects, internships, or volunteering.
+
+You do not need to do all of them. Pick one thing and actually commit to it. Opportunities usually come from motion. If you stay invisible, it becomes much harder for people to help you.
+
+Helpful Sources
+CUNY Tech Prep: https://cunytechprep.org/
+Hunter Undergraduate Research: https://www.hunter.cuny.edu/students/opportunities/research/
+Hunter Career Center Internships: https://www.hunter.cuny.edu/students/career-center/students/internships/
+Major League Hacking: https://www.mlh.com/

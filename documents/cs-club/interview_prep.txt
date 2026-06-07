@@ -1,0 +1,54 @@
+Technical Interviewing?
+Interviewing for a technical role is far more convoluted than traditional interviews.
+
+At McDonald's, they request your resume(if any), ask some questions, and more likely than not you're hired on the spot.
+
+Whereas, if you were to interview for a bigger tech company...
+
+1. You would have to pass ATS.
+2. Possibly get sent an online code assessment and achieve a certain score.
+3. Get your resume viewed by an actual human (Recruiter, HR, or Hiring Manager).
+4. Possibly get a phone screening(filter) interview.
+5. Go through a long on-site(usually virtual) interview process(possibly consisting of behavioral and technical interviews), which can range from 1-6 interviews consecutively in a day.
+6. Only then, will you get a decision back and it may even be a rejection!
+
+It is a strenuous process, but if you put aside ample time in your schedule to prepare for it, it won't be as daunting as others may make it out to be.
+
+When should I start?
+If you...
+1. Have previous coding experience.
+2. Consider yourself knowledgeable in the fundamentals of at least 1 programming language.
+3. Have made several technical projects to showcase on your resume.
+
+If you have not fulfilled those criteria, take the time to do so. Review old notes and past programming assignments. Youtube and Google will always be your best friends.
+
+The Study Process
+Once you're mentally prepared you can start answering coding interview questions. An extremely popular platform for doing so is called [LeetCode](https://leetcode.com/).
+
+LeetCode is a website that hosts an extensive catalog of interview questions that have been asked before. Thus, you will know you're not wasting your time.
+
+Solving these questions take time and arduous preparation. When you try one of these questions for the first time, you may be shocked at how difficult it is. However, the more you study by watching videos and submitting responses through trial and error, the more you will learn.
+
+A Personal Guide
+[Tech Interview Handbook](https://www.techinterviewhandbook.org/) teaches you everything you need to know for behavioral and technical interviews, no matter your experience level.
+
+Take some time out of your day to read a little bit. If you're inexperienced, this will broaden your eyes dramatically.
+
+A Curated Study Process
+Instead of doing LeetCode questions blindly, [Grind 75](https://www.techinterviewhandbook.org/grind75) from Tech Interview Handbook is neater and features an interactive study plan to answer LeetCode questions efficiently by letting you choose your own schedule.
+
+You can choose the number of weeks and how many hours per week you want to study and it will curate questions accordingly. Choose the schedule that fits you best and if you would like, follow our recommended study plan below.
+
+Our Recommended Study Plan
+1. Start with a question on Grind 75 and answer it on your own in the recommended time.
+2. If you solved it, give yourself a pat on the back. If not, find a solution online on YouTube or Google and understand the differences in thought processes and logic between their approach and yours. Take physical notes.
+3. Take that online solution and physically code it. Don't copy and paste. This will develop muscle memory. Save that question for the future.
+4. Repeat for other questions in that week. Don't overwhelm yourself.
+5. At the beginning of the next week, take those saved questions and try them again without referencing anything. If you solved it, great job! You're learning. If not, repeat steps 2-3. Eventually, you will understand them. If you feel overwhelmed, decrease your load.
+6. Repeat for the entire list until you've reached the end of the schedule.
+
+Too difficult?
+Many interview questions require knowledge of data structures and algorithms: complex concepts that are taught in upper-level courses in general and at Hunter(Mainly 235 and 335). While previous knowledge would be helpful, it is entirely possible to understand these by directly applying them to interview questions as you learn them.
+
+Final Takeaways
+It's easy to become frustrated when you can't solve a question or are completely lost. We can't guide you to every single resource available on the internet. You will have to guide yourself and trust the process if you are truly passionate about the path you chose.
